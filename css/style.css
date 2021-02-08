@@ -1,0 +1,20 @@
+main {
+
+background-color: antiquewhite;
+color:brown;
+margin: 20px;
+padding: 10px;
+
+}
+main h1{
+    color: darkblue ;
+
+}
+header{
+    background-color: darkorchid;
+    color: midnightblue;
+}
+footer {
+    background-color: orchid;
+    
+}
