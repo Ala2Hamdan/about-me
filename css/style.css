@@ -18,3 +18,9 @@ footer {
     background-color: orchid;
     
 }
+header h2 {
+    display:inline;
+    font-size:50px;
+    color: cyan;
+}
+
