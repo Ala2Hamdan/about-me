@@ -1,26 +1,58 @@
+body {
+
+    background-color: floralwhite;
+
+}
+
+header{
+    background-color: darkorchid;
+    color: midnightblue;
+    position:fixed;
+    width: 1500px;
+    display: block;
+   margin: 2px;
+}
 main {
 
 background-color: antiquewhite;
 color:brown;
-margin: 20px;
-padding: 10px;
-
+margin: 2px;
+padding: 5px;
+position:relative;
+top:270px;
+width: 1500px;
+height: 900px;
+bottom: 20px;
 }
 main h1{
     color: darkblue ;
+}
 
-}
-header{
-    background-color: darkorchid;
-    color: midnightblue;
-}
 footer {
     background-color: orchid;
-    
+    position:relative;
+    bottom: 1px;
+    top: 500px;
+    height: 30px;
 }
 header h2 {
     display:inline;
     font-size:50px;
     color: cyan;
+    position: absolute;
+    bottom: unset;
 }
-
+header img{
+    width: 300px;
+    height: 250px;
+}
+img{
+    width: 350px;
+    height:350px;
+    float: left;
+}
+main ul {
+    display:inline;
+    list-style:none;
+    margin: 5px;
+}
